@@ -3,6 +3,7 @@
   "displayName": "selection-api",
   "description": "Contribute's selection command to integrate with ModalEdit. Original code from vscode-quick-select",
   "version": "0.0.1",
+  "publisher": "ratierd",
   "engines": {
     "vscode": "^1.53.0"
   },
